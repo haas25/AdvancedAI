@@ -6,4 +6,4 @@ gym.register_envs(ale_py)
 
 play(gym.make("ALE/Tetris-v5", render_mode="rgb_array"))
 
-# Editing to check 
+# Editing to check again
